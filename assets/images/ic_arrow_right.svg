@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+    width="8px"
+    height="14px"
+    viewBox="0 0 8 14"
+    version="1.1"
+    xmlns="http://www.w3.org/2000/svg">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>ic-back copy 4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="05a.-Quản-lý_Đã-xác-minh-tài-khoản-" transform="translate(-327.000000, -956.000000)">
+            <g id="Group-9" transform="translate(16.000000, 595.000000)">
+                <g id="ic-back" transform="translate(303.000000, 356.000000)">
+                    <g id="ic-Back">
+                        <g transform="translate(12.000000, 12.000000) rotate(-180.000000) translate(-12.000000, -12.000000) ">
+                            <rect id="Rectangle" fill="#FFFFFF" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                            <polyline id="Path-8" stroke="#7E90A1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" transform="translate(15.000000, 12.000000) scale(-1, 1) rotate(-315.000000) translate(-15.000000, -12.000000) " points="11 8 19 8 19 16"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

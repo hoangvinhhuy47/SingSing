@@ -1,0 +1,16 @@
+{
+  "error_noInternetConnection": "No internet connection!",
+  "error_authorizationError": "Authorization error. Please login again.",
+  "error_general": "An error occurred!",
+  "error_login_failed": "Đăng nhập thất bại. Vui lòng kiểm tra và thử lại",
+  "error_tryAgain": "Đã xảy ra lỗi. Vui lòng thử lại!.",
+  "ok": "OK",
+
+  "NFT": "NFT",
+  "Wallet": "Wallet",
+  "Send": "Send",
+  "Receive": "Receive",
+  "Network fee info": "Mạng lưới sẽ tính phí giao dịch dựa trên tần suất và mức độ sử dụng băng thông. \n0% phí được thanh toán cho SingSing.",
+  "No data": "Không tìm thấy kết quả",
+  "Has error": "Đã xảy ra lỗi. Vui lòng thử lại!."
+}
