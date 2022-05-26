@@ -1,0 +1,1 @@
+abstract class WalletS2EScreenEvent{}

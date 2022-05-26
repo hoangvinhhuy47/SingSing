@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082364763286",
+    "project_id": "singsing-stag",
+    "storage_bucket": "singsing-stag.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082364763286:android:1055396ed2d92b0f4eb6b7",
+        "android_client_info": {
+          "package_name": "net.singsing.app.stag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082364763286-jnaees0dnofn0nrb4l3l2gd22mgu6qht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiL4hyIzTN2V0SP-LB5b_1KIHSD2r7kmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082364763286-jnaees0dnofn0nrb4l3l2gd22mgu6qht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

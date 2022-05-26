@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819673846959",
+    "project_id": "singsing-app",
+    "storage_bucket": "singsing-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819673846959:android:ee78dcdba8ec8e56b8705a",
+        "android_client_info": {
+          "package_name": "net.singsing.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819673846959-t07a8m33oleq72s6gf6eer15ttqa6le8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFl4OZTqYo4b4cX0JGn4lkCK9aiiAVmDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819673846959-t07a8m33oleq72s6gf6eer15ttqa6le8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

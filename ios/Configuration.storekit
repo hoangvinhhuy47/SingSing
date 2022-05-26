@@ -1,0 +1,63 @@
+{
+  "identifier" : "FAE831CC",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "D9DB3CDF",
+      "localizations" : [
+        {
+          "description" : "Microphone device for singing",
+          "displayName" : "Mic-gold",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.mic.id-gold",
+      "referenceName" : "Mic-gold",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "0A4C778D",
+      "localizations" : [
+        {
+          "description" : "Microphone device for singing",
+          "displayName" : "Mic-bronze",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.mic.id-bronze",
+      "referenceName" : "Mic-bronze",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "945FF4B7",
+      "localizations" : [
+        {
+          "description" : "Microphone device for singing",
+          "displayName" : "Mic-Silver",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.mic.id-silver",
+      "referenceName" : "Mic-Silver",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_askToBuyEnabled" : true
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 2
+  }
+}
